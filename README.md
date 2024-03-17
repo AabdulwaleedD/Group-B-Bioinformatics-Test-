@@ -10,4 +10,4 @@ Bioinformatics is an interdisciplinary field that combines biology, computer sci
 7. Najaatu Muhammad Zakari
 8. Zainab Bashir Muhammad
 9. Khalid Yarima
-__
+
