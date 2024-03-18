@@ -1,0 +1,11 @@
+# Define your information
+name = "Kamal Idris Ladan"
+email = "idriskamal663@gmail.com"
+slack_username = "@Kamal232"
+arae-of-interest = "Metagenomics"
+
+# print the information
+print("Name:", name)
+print("Email:",email)
+print("Slack-username:",slack-username)
+print("Area of interest in Bioinformatics:",area-of-interest)
