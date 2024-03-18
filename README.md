@@ -8,7 +8,7 @@ Group B members are students of Bauchi State University Gadau,from the Departmen
 3. Abdurrahman Abubakar 
 4. Kamal Idris Ladan
 5. Zarban Yusuf Alhaji
-6. Buba Aliyu Galadima
+6. Buba Aliyu Usman 
 7. Najaatu Muhammad Zakari
 8. Zainab Adamu Bashir
 9. Khalid Yarima
